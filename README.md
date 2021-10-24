@@ -5,4 +5,5 @@
 - [Webscraping introductie](./Chapter_03_Webscraping_1_Introductie.ipynb)
 - [Webscraping met een API](./Chapter_03_Webscraping_2_API_scrapen.ipynb)
 - [Webscraping van HTML](./Chapter_03_Webscraping_3_HTML_scrapen.ipynb)
+- [Comprehensions](./Chapter_04_Comprehensions.ipynb)
 - [Under construction: Flask site](./Chapter_03_Webscraping_9_Flask_site.ipynb)
